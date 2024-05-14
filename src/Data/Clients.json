@@ -1,0 +1,21 @@
+[
+    {"name": "arya", "path": "/src/assets/Images/Clients/arya.jpg"},
+    {"name": "atlantic", "path": "/src/assets/Images/Clients/atlantic.jpg"},
+    {"name": "dolphin", "path": "/src/assets/Images/Clients/dolphin.jpg"},
+    {"name": "franks", "path": "/src/assets/Images/Clients/franks.jpg"},
+    {"name": "fugro", "path": "/src/assets/Images/Clients/fugro.jpg"},
+    {"name": "gac", "path": "/src/assets/Images/Clients/gac.jpg"},
+    {"name": "gmr", "path": "/src/assets/Images/Clients/gmr.jpg"},
+    {"name": "jb boda", "path": "/src/assets/Images/Clients/jbboda.jpg"},
+    {"name": "jmbaxi", "path": "/src/assets/Images/Clients/jmbaxi.jpg"},
+    {"name": "john crane", "path": "/src/assets/Images/Clients/johncrane.jpg"},
+    {"name": "l&t", "path": "/src/assets/Images/Clients/l&t.jpg"},
+    {"name": "mmt", "path": "/src/assets/Images/Clients/mmt.jpg"},
+    {"name": "parekh", "path": "/src/assets/Images/Clients/parekh.jpg"},
+    {"name": "pcts", "path": "/src/assets/Images/Clients/pcts.jpg"},
+    {"name": "sesa steralite", "path": "/src/assets/Images/Clients/sesasteralite.jpg"},
+    {"name": "un", "path": "/src/assets/Images/Clients/un.jpg"},
+    {"name": "uni global", "path": "/src/assets/Images/Clients/uniglobal.jpg"},
+    {"name": "vedanta", "path": "/src/assets/Images/Clients/vedanta.jpg"},
+    {"name": "wilhelmson", "path": "/src/assets/Images/Clients/wilhelmson.jpg"}
+]
